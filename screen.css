@@ -2,3 +2,15 @@
 a.active {
     font-weight: bold;
 }
+
+html {
+    background-color: darkgray
+}
+
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: whitesmoke;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+}
